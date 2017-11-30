@@ -7,11 +7,3 @@
 
 数据库配置 为hotel-hibernate.xml 文件
 以上配置 项目可以运行！！！
-=====================================================================
-酒店管理系统需求分析以及数据库设计PPT
-http://www.52itstyle.com/thread-170-1-1.html
-酒店管理系统安装说明以及注意事项
-http://www.52itstyle.com/thread-151-1-1.html
-
-SQLyog客户端 导入sql文件乱码的解决方法
-http://www.52itstyle.com/thread-133-1-1.html
